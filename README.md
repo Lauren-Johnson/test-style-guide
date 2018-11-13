@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the test Style Guide
 
-You can use the [editor on GitHub](https://github.com/Lauren-Johnson/test-style-guide/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a proof of concept for using GH Pages to publish a style guide.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Table of Contents
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
